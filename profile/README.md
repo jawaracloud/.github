@@ -1,3 +1,3 @@
 <p align="center">
-  <a href="#"><img src="#"></a>
+  <a href="#"><img src="../jawara.svg"></a>
 </p>
